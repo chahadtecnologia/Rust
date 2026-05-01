@@ -25,3 +25,6 @@
 > rustfmt <file.rs>
 > cargo fmt
 
+## Command to update Rust
+> rustup update
+
