@@ -1,9 +1,10 @@
-/* Code created to output information using Rust
-   To compile this project you can use one of the commands below:
-   - rustc <file.rs>
-   - cargo build
-   - cargo build --release
-   - cargo run
+/* 
+    Code created to output information using Rust
+    To compile this project you can use one of the commands below:
+    - rustc <file.rs>
+    - cargo build
+    - cargo build --release
+    - cargo run
 */
 fn main() {
     println!("Hello, my name is Chahad.");
