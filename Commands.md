@@ -22,6 +22,6 @@
 > cargo clean
 
 ## Command to format the code
->rustfmt <file.rs>
+> rustfmt <file.rs>
 > cargo fmt
 
