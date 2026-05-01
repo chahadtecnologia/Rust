@@ -9,5 +9,5 @@
 fn main() {
     println!("Hello, my name is Chahad.");
     println!("I'm from Brazil.");
-    println!("And I'm working as a Cyber Security Architecure.");
+    println!("And I'm learning Rust programming language.");
 }
