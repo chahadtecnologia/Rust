@@ -23,3 +23,5 @@ Due to its balance of power and security, Rust is used in:
 - **Embedded Systems**: Programming microcontrollers and IoT (Internet of Things) devices.
 
 In short, Rust is the ideal choice when you need something to be very fast and highly reliable.
+
+![Rust](./Rust.jpg)
