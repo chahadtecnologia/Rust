@@ -1,7 +1,7 @@
 /*
     A constant is a name assigned to a value. A constant's value cannot change.
     A constant could be used in any scope.
-    A constant value is define when the program is running.
+    A constant value could be define when the program is running.
 */
 
 const TAX_RATE: f64 = 7.25;
